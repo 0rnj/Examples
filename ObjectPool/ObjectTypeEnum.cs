@@ -1,0 +1,4 @@
+public enum ObjectType
+{
+    None
+}
